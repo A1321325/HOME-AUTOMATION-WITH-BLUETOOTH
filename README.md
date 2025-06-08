@@ -6,8 +6,8 @@ cription
 *Name:* A.sudheer kumar reddy 
 *Company:* CODTECH IT SOLUTIONS    
 *ID:*  :CT08DM1081 
-*Domain:* PYTHON PROGRAMMING  
-*Duration:* 11th may to 12th Julyh 
+*Domain:* EMBEDDED SYSTEM
+*Duration:* 11th may to 12th July
 
 ---
 
