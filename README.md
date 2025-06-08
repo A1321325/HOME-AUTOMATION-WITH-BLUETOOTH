@@ -59,3 +59,5 @@ File
 Media Store
 URI
 License
+CIRCUIT DIGRAM 
+![Image](https://github.com/user-attachments/assets/05476a43-0d13-40e3-86fa-3eaffc61c57d)
